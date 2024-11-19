@@ -23,6 +23,8 @@ setup(
             'test = cg.teste:main',
             'maze = cg.main:game',
             'edit = cg.main:editor',
+            'mapa = cg.mapa:main',
+            'reativa = cg.reativa:main'
         ],
     },
 )
